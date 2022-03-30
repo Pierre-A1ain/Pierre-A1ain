@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pierre-A1ain
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Pierre-Alain
+
+Git in progress !!
+
+Come back here next week to dicover my new project ;-)
 
 <!---
 Pierre-A1ain/Pierre-A1ain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
